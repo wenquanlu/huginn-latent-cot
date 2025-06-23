@@ -37,7 +37,7 @@ python frequency_analysis_combined.py
 ### We trace the rank trajectory of the intermediate and final result tokens in one-digit composite arithmetic task, but find little evidence for latent CoT.
 
 <p align="center">
-<img src="graphs/inter_block.png", width=45%>
+<img src="graphs/inter_block.png", width=60%>
 </p>
 
 We first filter the dataset to the subset that the models answers correctly and have single-digit answer:
