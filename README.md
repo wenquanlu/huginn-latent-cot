@@ -73,7 +73,7 @@ accelerate launch --num_processes 1 -m lm_eval   --model hf   --model_args pretr
 
 ## Citation
 
-If you find HandRefiner helpful, please consider giving this repo a star :star: and citing:
+If you find the repository helpful, please consider giving this repo a star :star: and citing:
 
 ```
 @article{lu2025latentchainofthoughtdecodingdepthrecurrent,
