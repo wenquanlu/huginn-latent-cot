@@ -77,10 +77,12 @@ accelerate launch --num_processes 1 -m lm_eval   --model hf   --model_args pretr
 If you find the repository helpful, please consider giving this repo a star :star: and citing:
 
 ```
-@article{lu2025latentchainofthoughtdecodingdepthrecurrent,
-      title={Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer}, 
-      author={Wenquan Lu and Yuechuan Yang and Kyle Lee and Yanshu Li and Enqi Liu},
-      journal={arXiv preprint arXiv:2507.02199},
-      year={2025}
+@inproceedings{
+lu2025latent,
+title={Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer},
+author={Wenquan Lu and Yuechuan Yang and Kyle Lee and Yanshu Li and Enqi Liu},
+booktitle={The First Workshop on the Application of LLM Explainability to Reasoning and Planning},
+year={2025},
+url={https://openreview.net/forum?id=roIQdXMuEj}
 }
 ```
